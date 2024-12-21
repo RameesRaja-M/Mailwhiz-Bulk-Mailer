@@ -1,0 +1,12 @@
+/* Google Font Poppins */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Google Font chakra */
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Poppins&display=swap');
+
+/* Tailwind CSS in REACT */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
