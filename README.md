@@ -1,4 +1,4 @@
-# MailWhiz - Bulk Emailing Web Application (In Progress)
+# MailWhiz - Bulk Emailing Web Application
 
 **MailWhiz** is a modern, scalable bulk mailing platform designed for high-volume email communication. While the current release includes a fully developed Home Page, the project sets the groundwork for a powerful, secure, and user-friendly bulk email solution.
 
@@ -21,11 +21,11 @@ Website : https://mailwhiz-frontend.vercel.app/
 - Built using React.js to provide a seamless, single-page application experience.
 - Modular, reusable components for future scalability.
 
-### Backend Architecture (Planned)
+### Backend Architecture 
 - Node.js and Express.js to power API endpoints for user and email management.
 - RESTful API structure for secure, scalable integration.
 
-### Database Integration (Planned)
+### Database Integration 
 - MongoDB for managing user data, email logs, and scheduling information.
 - Designed to support large-scale operations and analytics.
 
